@@ -33,12 +33,26 @@
 - Git & GitHub
 - IntelliJ IDEA / VS Code
 
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-## 🚀 By the way here are some of my statistics 
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanSebLopez&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+
+</details>
+  
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+----
+	
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanSebLopez&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanSebLopez&theme=tokyonight"/>
-</p>
+    <a href="https://github.com/JuanSebLopez/github-readme-stats">
+  		<img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanSebLopez&theme=tokyonight"/>
+<br/>
+  </p>
+</details>
 
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
 
@@ -63,6 +77,8 @@
 </div>
 </details>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 ## 📫 Contact me:
 <p align="center">
   <a href="https://www.instagram.com/juan_lmrqz">
@@ -78,6 +94,3 @@
     <img src="https://img.shields.io/badge/Ko--fi-Support%20Me-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
   </a>
 </p>
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-Credit: [AkuraDiary](https://github.com/AkuraDiary)
