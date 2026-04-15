@@ -12,20 +12,6 @@
 - 🧠 Learning about logic, systems, and code structures
 - ⚡ Interested in creating functional systems within video games
 
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-----
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/JuanSebLopez/culiatum-economy">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanSebLopez&repo=culiatum-economy&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	
-  </p>
-</div>
-</details>
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### 🧰 Tech Stack
@@ -54,6 +40,29 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JuanSebLopez&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanSebLopez&theme=tokyonight"/>
 </p>
+
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+----
+	
+<div>
+  <p align="center">
+	<a href="https://github.com/JuanSebLopez/culiatum-economy">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanSebLopez&repo=culiatum-economy&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/JuanSebLopez/Ward-Watch">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanSebLopez&repo=Ward-Watch&theme=tokyonight" alt="GitHub Stats" />
+	</a>
+	<a href="https://github.com/JuanSebLopez/taskflow-backend">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanSebLopez&repo=taskflow-backend&theme=tokyonight" alt="GitHub Stats" />
+	</a>
+	<a href="https://github.com/JuanSebLopez/AppSistemaVenta">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanSebLopez&repo=AppSistemaVenta&theme=tokyonight" alt="GitHub Stats" />
+	</a>
+	
+  </p>
+</div>
+</details>
 
 ## 📫 Contact me:
 <p align="center">
