@@ -13,6 +13,7 @@
 - 🧠 Learning about logic, systems, and code structures
 - ⚡ Interested in creating functional systems within video games
 
+<br/>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Tech Stack
 
@@ -50,7 +51,7 @@
 	
 <p align="center">
     <a href="https://github.com/JuanSebLopez/github-readme-stats">
-  		<img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanSebLopez&theme=tokyonight"/>
+  		<img src="https://github-readme-stats.vercel.app/api?username=JuanSebLopez&show_icons=true&theme=tokyonight"/>
 <br/>
   </p>
 </details>
