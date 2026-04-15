@@ -19,7 +19,7 @@
 <div>
   <p align="center">
 	<a href="https://github.com/JuanSebLopez/culiatum-economy">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanSebLopez&repo=culiatum_economy&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanSebLopez&repo=culiatum-economy&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	
   </p>
