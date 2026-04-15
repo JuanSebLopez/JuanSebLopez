@@ -21,6 +21,19 @@
 - C#
 - Java
 
+**Databases**
+- MySQL
+- MongoDB
+
+**Current Focus**
+- Minecraft Modding (Fabric)
+- Backend fundamentals
+- API & endpoint development
+
+**Tools**
+- Git & GitHub
+- IntelliJ IDEA / VS Code
+
 
 ## By the way here are some of my statistics 🚀
 <p align="center">
