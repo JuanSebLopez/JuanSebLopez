@@ -12,7 +12,7 @@
 - 🧠 Learning about logic, systems, and code structures
 - ⚡ Interested in creating functional systems within video games
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### 🧰 Tech Stack
 
@@ -57,5 +57,5 @@
   </a>
 </p>
 
-------
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 Credit: [AkuraDiary](https://github.com/AkuraDiary)
