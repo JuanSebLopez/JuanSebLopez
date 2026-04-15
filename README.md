@@ -1,16 +1,30 @@
 <h1 align="center">Hey 👋 I'm Juan López</h1>
 
-<h3 align="center">Junior Backend Beginner | Minecraft Mod Developer</h3>
+<h3 align="center">Junior Backend Developer | Minecraft Mod Developer</h3>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanSebLopez&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 ### 🚀 About me
-- 💻 Basic knowledge of **Python (backend)** and **C#**
-- 🎮 Currently focused on developing **Minecraft mods**
+- 🎮 Currently developing **Minecraft mods (Fabric)**
+- ⚙️ Learning about systems, logic and backend development
 - 🧠 Learning about logic, systems, and code structures
 - ⚡ Interested in creating functional systems within video games
+
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+----
+	
+<div>
+  <p align="center">
+	<a href="https://github.com/JuanSebLopez/culiatum-economy">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanSebLopez&repo=culiatum_economy&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	
+  </p>
+</div>
+</details>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -28,7 +42,7 @@
 **Current Focus**
 - Minecraft Modding (Fabric)
 - Backend fundamentals
-- API & endpoint development
+- REST API development
 
 **Tools**
 - Git & GitHub
