@@ -6,14 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JuanSebLopez&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-### 🚀 About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
 - 🎮 Currently developing **Minecraft mods (Fabric)**
 - ⚙️ Learning about systems, logic and backend development
 - 🧠 Learning about logic, systems, and code structures
 - ⚡ Interested in creating functional systems within video games
 
 
-### 🧰 Tech Stack
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Tech Stack
 
 **Languages**
 - Python
