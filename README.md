@@ -23,15 +23,12 @@
 
 
 ## By the way here are some of my statistics 🚀
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=JuanSebLopez&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanSebLopez&theme=tokyonight" alt="mystreak"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanSebLopez&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanSebLopez&theme=tokyonight"/>
+</p>
 
-🌱 I’m currently learning android in dicoding.com with kotlin
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-## Contact me : 
-## 📫 Contact
+## 📫 Contact me:
 <p align="center">
   <a href="https://www.instagram.com/juan_lmrqz">
     <img src="https://img.shields.io/badge/Instagram-juan_lmrqz-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
